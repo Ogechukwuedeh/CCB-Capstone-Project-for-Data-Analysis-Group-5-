@@ -1,11 +1,16 @@
 DATA SCIENCE JOB MARKET ANALYSIS
+
 PROJECT OVERVIEW
+
 This project analyse over 500 job listings for Data Science Analytic roles across multiple U.S companies. The objective was to uncover the factors influencing salary levels, employer ratings and job opportunities across industries, company sizes and locations.
+
 
 DATA SOURCE
 Job HR Data: The primary dataset for this analysis is the "Uncleaned_DS_jobs.csv" file containing detailed information about jobs compiled for over 500+ job listings.
 
+
 TOOLS
+
 Excel - Data Cleaning
 [Download here] (https://microsoft.com)
 SQL Server - Data Analysis
