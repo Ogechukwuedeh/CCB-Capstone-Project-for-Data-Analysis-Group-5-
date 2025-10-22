@@ -1,28 +1,28 @@
-# <ins>**DATA SCIENCE JOB MARKET ANALYSIS**</ins> 
+# **DATA SCIENCE JOB MARKET ANALYSIS** 
 
-## PROJECT OVERVIEW 
+### PROJECT OVERVIEW 
 This project analyse over 500 job listings for Data Science Analytic roles across multiple U.S companies. The objective was to uncover the factors influencing salary levels, employer ratings and job opportunities across industries, company sizes and locations. 
 
 ---
 
-## DATA SOURCE 
+### DATA SOURCE 
 **Job HR Data:** The primary dataset for this analysis is the "Uncleaned_DS_jobs.csv" file containing detailed information about jobs compiled for over 500+ job listings. 
 
 ---
 
-## TOOLS
+### TOOLS
 - **Excel** - Data Cleaning
-- ``` [Download here] (https://microsoft.com) <br/> ```
+    - [Download here] (https://microsoft.com) 
 
 - **SQL Server** - Data Analysis 
-- ``` [Download here] (https://www.mysql.com/downloads/) ```
+    - [Download here] (https://www.mysql.com/downloads/)
 
 - **PowerBi** - Creating reports 
-- ```[Download here] (https://www.microsoft.com/en-us/download/details.aspx?id=58494) <br/> ```
+    - [Download here] (https://www.microsoft.com/en-us/download/details.aspx?id=58494) 
 
 ---
 
-## DATA CLEANING / PREPARATION 
+### DATA CLEANING / PREPARATION 
 In the intial data preparation phase, we performed the following task: 
 
 1. Data loading and inspection. 
@@ -31,23 +31,26 @@ In the intial data preparation phase, we performed the following task:
 
 ---
 
-## EXPLORATORY DATA ANALYSIS (EDA) 
+### EXPLORATORY DATA ANALYSIS (EDA) 
 EDA involved exploring the Job HR Data to answer key questions such as:
 
 - What factors influence salary estimates and company ratings. 
 - Which industries and locations offer the best opportunities. 
 - How company attributes like size, founding year, and ownership affect job prospects. 
 
-## DATA ANALYSIS 
+---
+
+### DATA ANALYSIS 
 Example of an SQL query used during analysis:
 
 ``` sql
 SELECT * FROM ds_jobs
-WHERE job_count = 2; ```
+WHERE job_count = 2;
+```
 
 ---
 
-## RESULTS AND FINDINGS 
+### RESULTS AND FINDINGS 
 The analysis results are summarised as follows: 
 
 - Average Salaries range between $85K-$130K,wIth senior roles such as Senior Data Scientist and Machine Learning Engineering leading pay scales. 
@@ -58,7 +61,7 @@ The analysis results are summarised as follows:
 
 --- 
 
-## RECOMMENDATIONS 
+### RECOMMENDATIONS 
 
 Based on the analysis, we recommend the following actions:
 
@@ -71,7 +74,7 @@ Based on the analysis, we recommend the following actions:
 
 ---
 
-## LIMITATIONS 
+### LIMITATIONS 
 
 - **Data coverage:** The dataset only includes about 500+ job listings, which may not represent the entire global data science job market. 
 - **Data accuracy:** Salary estimates and company ratings are sourced from job postings (Glassdoor-like), which may be self reported or outdated. 
