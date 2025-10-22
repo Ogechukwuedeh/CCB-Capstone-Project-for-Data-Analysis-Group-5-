@@ -84,5 +84,5 @@ Based on the analysis, we recommend the following actions:
 
 ---
 
-# <ins> REFERENCES <ins/> 
+### <ins> REFERENCES <ins/> 
 Glassdoor-like job postings (2024). Data science job listings dataset.
